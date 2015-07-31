@@ -1,0 +1,17 @@
+{
+  "name": "d3-map-visual",
+  "version": "0.0.0",
+  "description": "Map visualization with D3",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
